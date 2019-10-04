@@ -1,12 +1,12 @@
 {
   "name": "web-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Node Weather App",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/app.js"
   },
-  "author": "",
+  "author": "Sumit",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
